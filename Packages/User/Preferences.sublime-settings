@@ -1,0 +1,35 @@
+{
+	"color_scheme": "Packages/flatland/Theme - Flatland/Flatland.tmTheme",
+	"font_face": "Inconsolata-dz",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+	],
+	"theme": "Flatland.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": false,
+		"file_exclude_patterns":
+		[
+			"*.css",
+			"*.po",
+			"*.mo"
+		],
+		"folder_exclude_patterns":
+		[
+			"static",
+			"vendor",
+			"tmp"
+		],
+		"patterns":
+		{
+			"BUG": "BUG[\\s]*?:+(?P<bug>.*)$",
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		},
+		"result_title": "TODO Results"
+	},
+	"vintage_start_in_command_mode": true
+}

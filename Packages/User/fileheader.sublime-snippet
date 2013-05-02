@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**********************************************************************************************
+	File path:	$TM_FILEPATH
+	File base:	$TM_FILENAME
+
+	Author	 :	ZHAO Fan
+	
+	Purpose  :	${1:PURPORSE}
+***********************************************************************************************/
+		]]></content>
+	<tabTrigger>fileheader</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
