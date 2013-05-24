@@ -22,7 +22,7 @@
 		"/Users/borluse/Documents/ManorTD/trunk91/Assets/Editor/Z91SDK",
 		"/Users/borluse/testngui/Assets"
 	],
-	"last_window_id": 583,
+	"last_window_id": 599,
 	"settings":
 	{
 		"new_window_height": 1032.0,
@@ -33,1696 +33,13 @@
 				"selected_items":
 				[
 					[
-						"Comba",
-						"CombatSystem"
-					],
-					[
-						"current",
-						"currentLanguage"
-					],
-					[
-						"table",
-						"LocalicationTable	LocalicationTable"
-					],
-					[
-						"retr",
-						"returnItemToOrigin"
-					],
-					[
-						"remove",
-						"RemoveListener<T, U>(String, Callback<T1, T2>, U])	Void"
-					],
-					[
-						"bro",
-						"Broadcast<T>(String, T)	Void"
-					],
-					[
-						"addlis",
-						"AddListener<T>(String, Callback<T>)	Void"
-					],
-					[
-						"random",
-						"Random"
-					],
-					[
-						"return",
-						"returnToOrigin"
-					],
-					[
-						"getcompo",
-						"GetComponentInChildren<T>()	T"
-					],
-					[
-						"setuipo",
-						"SetUIPosition(GameObject, Vector3)	Void"
-					],
-					[
-						"move",
-						"SetUIPosition(GameObject, Vector3)	Void"
-					],
-					[
-						"uipe",
-						"UiPrefbBox"
-					],
-					[
-						"proc",
-						"ProcessTouch(Boolean, Boolean)	Void"
-					],
-					[
-						"curr",
-						"currentTouch	UICamera+MouseOrTouch"
-					],
-					[
-						"touch",
-						"lastTouchPosition	Vector2"
-					],
-					[
-						"Onclic",
-						"OnClickedOutside"
-					],
-					[
-						"shomo",
-						"ShowModelessUI(String, Boolean)	GameObject"
-					],
-					[
-						"addwid",
-						"AddWidgetCollider(GameObject)	BoxCollider"
-					],
-					[
-						"calcule",
-						"CalculateRelativeWidgetBounds(Transform)	Bounds"
-					],
-					[
-						"calu",
-						"CalculateAbsoluteWidgetBounds(Transform)	Bounds"
-					],
-					[
-						"get",
-						"GetBaseItem(Int32)	Context"
-					],
-					[
-						"addcompoen",
-						"AddComponent<T>()	T"
-					],
-					[
-						"repos",
-						"Reposition()	Void"
-					],
-					[
-						"prefabwi",
-						"prefabWithGem"
-					],
-					[
-						"find",
-						"FindProperty<T>(String, IBinding)	Property<T>"
-					],
-					[
-						"Deb",
-						"DebugEx"
-					],
-					[
-						"prop",
-						"Property<T1>	class"
-					],
-					[
-						"cal",
-						"CalculateRelativeWidgetBounds(Transform)	Bounds"
-					],
-					[
-						"Vec",
-						"Vector3"
-					],
-					[
-						"vec",
-						"Vector3"
-					],
-					[
-						"worldto",
-						"WorldToScreenPoint(Vector3)	Vector3"
-					],
-					[
-						"UICa",
-						"UICamera"
-					],
-					[
-						"tranfr",
-						"TransformPoint(Vector3)	Vector3"
-					],
-					[
-						"m",
-						"MoveUIToPosition(GameObject, Vector3)	Void"
-					],
-					[
-						"getcop",
-						"GetComponent<T>()	T"
-					],
-					[
-						"sele",
-						"SelectedIndex	Int32"
-					],
-					[
-						"Oncl",
-						"OnClicked"
-					],
-					[
-						"rando",
-						"Random"
-					],
-					[
-						"debu",
-						"DebugEx"
-					],
-					[
-						"getcopoen",
-						"GetComponentsInChildren<T>()	T[]"
-					],
-					[
-						"getcopo",
-						"GetComponent<T>()	T"
-					],
-					[
-						"gameob",
-						"GameObject"
-					],
-					[
-						"ItemDa",
-						"NguiItemDataContext"
-					],
-					[
-						"add",
-						"Add(NguiItemDataContext)	Void"
-					],
-					[
-						"addcomponent",
-						"AddComponent<T>()	T"
-					],
-					[
-						"chi",
-						"GetChild(Int32)	Transform"
-					],
-					[
-						"getcoponentinchi",
-						"GetComponentsInChildren<T>()	T[]"
-					],
-					[
-						"gam",
-						"GameObject"
-					],
-					[
-						"repo",
-						"Reposition()	Void"
-					],
-					[
-						"getcomponent",
-						"GetComponent<T>()	T"
-					],
-					[
-						"defa",
-						"DefaultTemplate"
-					],
-					[
-						"set",
-						"SelectItem(Int32)	Void"
-					],
-					[
-						"sendme",
-						"SendMessage(String)	Void"
-					],
-					[
-						"onsele",
-						"OnSelectItemByIndex(Int32)	Void"
-					],
-					[
-						"selec",
-						"SelectItem(Int32)	Void"
-					],
-					[
-						"onselec",
-						"OnSelectItemByIndex"
-					],
-					[
-						"viewmo",
-						"m_ViewModel"
-					],
-					[
-						"arm",
-						"ArmourProperty	Property<ItemViewModel>"
-					],
-					[
-						"_tex",
-						"_textures"
-					],
-					[
-						"getcompnent",
-						"GetComponent<T>()	T"
-					],
-					[
-						"adcp",
-						"AddComponent<T>()	T"
-					],
-					[
-						"getcomp",
-						"GetComponentsInChildren(Type)	Component[]"
-					],
-					[
-						"getcopon",
-						"GetComponent<T>()	T"
-					],
-					[
-						"addchile",
-						"AddChild(GameObject, GameObject)	GameObject"
-					],
-					[
-						"positio",
-						"PositionNormal"
-					],
-					[
-						"gecop",
-						"GetComponent<T>()	T"
-					],
-					[
-						"onche",
-						"onStateChange	UICheckbox+OnStateChange"
-					],
-					[
-						"loadl",
-						"LoadLevel(Int32)	Void"
-					],
-					[
-						"start",
-						"StartCoroutine(String, Object)	Coroutine"
-					],
-					[
-						"_Curen",
-						"_currentGameStateImplement"
-					],
-					[
-						"DBH",
-						"DataBaseHelper"
-					],
-					[
-						"equal",
-						"Equal(Object, Object)	Void"
-					],
-					[
-						"tes",
-						"test"
-					],
-					[
-						"ex",
-						"ExpectException(Exception)	Void"
-					],
-					[
-						"broad",
-						"Broadcast(String)	Void"
-					],
-					[
-						"addli",
-						"AddListener<T>(String, Callback<T>)	Void"
-					],
-					[
-						"testob",
-						"testObj"
-					],
-					[
-						"notifmg",
-						"NotificationMG"
-					],
-					[
-						"Tes",
-						"TestObject"
-					],
-					[
-						"Notifi",
-						"NotificationMG"
-					],
-					[
-						"ret",
-						"resumeLastImp"
-					],
-					[
-						"_curregame",
-						"_currentGameStateImplement"
-					],
-					[
-						"_curregae",
-						"_currentGameStateImplement"
-					],
-					[
-						"_curreg",
-						"_currentGameStateImplement"
-					],
-					[
-						"getcoponent",
-						"GetComponents(Type)	Component[]"
-					],
-					[
-						"_currg",
-						"_currentGameStateImplement"
-					],
-					[
-						"Games",
-						"GameState"
-					],
-					[
-						"cont",
-						"ContainsKey(GameState)	Boolean"
-					],
-					[
-						"eq",
-						"Equal(String, String)	Void"
-					],
-					[
-						"getcoo",
-						"GetComponent<T>()	T"
-					],
-					[
-						"test",
-						"TEST_1	GameState"
-					],
-					[
-						"getcur",
-						"getCurrentGameStateImplement()	iGameState"
-					],
-					[
-						"addi",
-						"addtionTest1"
-					],
-					[
-						"_currentgamse",
-						"_currentGameStateImplement"
-					],
-					[
-						"mygam",
-						"setMyGameState(GameState)	Void"
-					],
-					[
-						"getcurr",
-						"getCurrentGameState()	GameState"
-					],
-					[
-						"getcopone",
-						"GetComponent(Type)	Component"
-					],
-					[
-						"adc",
-						"AddComponent(Type)	Component"
-					],
-					[
-						"_cure",
-						"_currentGameStateImplement"
-					],
-					[
-						"addcompo",
-						"AddComponent<T>()	T"
-					],
-					[
-						"ge",
-						"GetComponent<T>()	T"
-					],
-					[
-						"_games",
-						"_gameStateMap"
-					],
-					[
-						"_currentGme",
-						"_currentGameStateImplement"
-					],
-					[
-						"getcurrg",
-						"getCurrentGameStateImplement"
-					],
-					[
-						"games",
-						"GameState"
-					],
-					[
-						"sendset",
-						"sendSetSpree()	Void"
-					],
-					[
-						"send",
-						"sendSetScore()	Void"
-					],
-					[
-						"name",
-						"getNameId()	Int32"
-					],
-					[
-						"seetui",
-						"setUITextureWithNormalMaterial(UITexture)	Void"
-					],
-					[
-						"confi",
-						"Config"
-					],
-					[
-						"_currs",
-						"_currGameState"
-					],
-					[
-						"ipad",
-						"iPad2Gen	iPhoneGeneration"
-					],
-					[
-						"inv",
-						"InvokeRepeating(String, Single, Single)	Void"
-					],
-					[
-						"syn",
-						"SynchroTokenInSecond(Int32)	Void"
-					],
-					[
-						"update",
-						"updateRoadState()	Void"
-					],
-					[
-						"onend",
-						"OnEndConstruction()	Void"
-					],
-					[
-						"posi",
-						"posTileY	Int32"
-					],
-					[
-						"rotate",
-						"EulerRotation(Vector3)	Quaternion"
-					],
-					[
-						"onven",
-						"OnEventPurchaseSuccessfully(String)	Void"
-					],
-					[
-						"store_",
-						"store_moneyTable	class"
-					],
-					[
-						"cameracon",
-						"CameraControl"
-					],
-					[
-						"initi",
-						"InstantiateGO(String, Vector3, Quaternion)	GameObject"
-					],
-					[
-						"load",
-						"LoadResource(String, Type)	Object"
-					],
-					[
-						"came",
-						"getCameraObject()	GameObject"
-					],
-					[
-						"Building",
-						"building_resourcesEntity"
-					],
-					[
-						"hasen",
-						"hasEnough(PlayerInfo_Type, Int32)	Boolean"
-					],
-					[
 						"le",
-						"userLevel	Int32"
-					]
-				]
-			},
-			"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
-			"command_palette":
-			{
-				"height": 120.0,
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"instap",
-						"Package Control: Install Package"
-					],
-					[
-						"upgrad",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"package",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"installpa",
-						"Package Control: Install Package"
-					],
-					[
-						"packagecontre",
-						"Package Control: Add Repository"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"upda",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"bui",
-						"CTags: Rebuild Tags"
-					],
-					[
-						"pretty",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"in",
-						"Sort Lines"
-					],
-					[
-						"intent",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"packageup",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"alig",
-						"Preferences: Alignment Key Bindings – Default"
-					],
-					[
-						"align",
-						"Preferences: Alignment Key Bindings – User"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"todo",
-						"Show TODOs: Project and open files"
-					],
-					[
-						"showt",
-						"Show TODOs: Project and open files"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"instalp",
-						"Package Control: Install Package"
-					],
-					[
-						"ctag",
-						"CTags: Rebuild Tags"
-					],
-					[
-						"prettyj",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"prety",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"installp",
-						"Package Control: Install Package"
-					],
-					[
-						"prettyjson",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"prett",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"json",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
-						"sur",
-						"Surround: change surround"
-					],
-					[
-						"surren",
-						"Surround: delete surround"
-					],
-					[
-						":",
-						"Surround: surround selection"
-					],
-					[
-						":cs",
-						"Surround: change surround"
-					],
-					[
-						"packagec",
-						"Package Control: Install Package"
-					],
-					[
-						"packaupal",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"pacup",
-						"Package Control: Upgrade Package"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						":wq",
-						"Bracket Highlighter: Swap Quotes"
-					],
-					[
-						"upgre",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"upg",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"upgra",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"pacakg",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"packag",
-						"Package Control: List Packages"
-					],
-					[
-						"pacakge",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"packagein",
-						"Package Control: Install Package"
-					],
-					[
-						":W",
-						":w - Save"
-					],
-					[
-						":we",
-						":w - Save"
-					],
-					[
-						":wa",
-						":w - Save"
-					],
-					[
-						":e",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						":ew",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"packai",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"upd",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"packageins",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 588.0
-			},
-			"console":
-			{
-				"height": 320.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": true,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Main/Main.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestNotificationMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatInstance.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystem.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/ICombatSystem.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystemInterface.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Action/MoveToAction.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Pattern/Singleton.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ActorSystem.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIForwardEvents.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/MenuGameState.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/LevelGameState.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/ByteReader.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/LocalicationTable.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/Localization.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/ConfigMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Data/DataCenter.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/SplashGameState.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Localization/LocalizationConfigScript.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Main/GlobalMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/LocalizationConfig.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/LocalizationConfigScript.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Localization/LocalizationConfig.cs",
-				"/Users/Borluse/testNDATA/Assets/NGUI/Examples/Scripts/Other/DragDropItem.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Notification/NotificationMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/PlayerUISlotShine.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/PlayerUICheckBox.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIDragObject.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/Core/Property.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiItemDataContext.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/DebugEx.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLog.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLogMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/UIMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIFactory/UiFactory.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIGrid.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiDataContext.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/ViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/NGUIMenu.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/UICameraTool.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UICamera.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Localization/Chinese.txt",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiLocalizedTextBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UILocalize.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NData/NguiSimpleListTemplate.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiListItemTemplate.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/LoginGameState.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataTexturePathBind.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiSpriteBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextureBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemSlotScript.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/svn-prop.tmp",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/svn-commit.2.tmp",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/svn-commit.tmp",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/Texture/TextureAtlasMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiSpriteIntegerBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiOnClickBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiCommandBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextMultiBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/RoleItemCatSelect.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NData/SceneValidator.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataSourceInitialFirst.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/Texture/TexTexture.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/RoleViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiMultiBinding.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UILabel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UI/ViewModel/ViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UIRoot.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScaleAdjust.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/IO/InputOutputMG.cs",
-				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ItemStaticBGTuner.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Basic/DontDestroyGameObject.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ItemScrollEffect.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerUISlotShine.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerRoleUIReady.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerUICheckBox.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/SyncSublimeText2.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Tweening/UITweener.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Tweening/TweenPosition.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/NGUITools.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UICheckbox.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Resources/Font/font25.txt",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/UILabelInspector.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/.svn/tmp/UIMG.cs.tmp",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/GameStateMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/ScreenLog/ScreenLogUIMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/UIManager.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/iGameState.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestGameStateMachine.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/InfiniteTower - ST2.sublime-project",
-				"/Users/Borluse/.bash_profile",
-				"/Users/Borluse/Desktop/zhaofan.txt",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/InputOutputMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/AssetBundleCenter.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Main/.svn/tmp/GlobalMG.cs.tmp",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Basic/DyDebug.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/Log/Log.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/Log/LogMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/Test_Sqlite_Zlib_DES.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Main/GlobalMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/DBManager.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/SharpUnit/Unity3D_TestRunner.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/GameStateMachine/GameStateMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Pattern/Singleton.cs",
-				"/System/Library/QuickLook/Text.qlgenerator/Contents/Info.plist",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/TestGameStateMachine.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/SharpUnit/TestSuite.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/GameStateMachine/iGameState.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Notification/NotificationMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/SharpUnit/Assert.cs"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"",
-					"/Users/Borluse/Project/ChinaTown/ChinaTown/Assets/Source",
-					"",
-					"Source",
-					"",
-					"/Users/Borluse/Project/ManorTD/trunk/Assets/Src",
-					"",
-					"/Users/borluse/Documents/ManorTD/trunk91/Assets/Src",
-					"",
-					"/Users/borluse/Documents/ManorTD/trunk91/Assets/Src",
-					"",
-					"/Users/borluse/Documents/ManorTD/trunk/Assets/Editor",
-					"/Users/borluse/Documents/ManorTD/trunk/Assets/Plugins",
-					"./Plugins",
-					"Plugins",
-					"",
-					"/Users/borluse/Documents/ManorTD/trunk/Assets/Icon",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"lasthit",
-					"uicamera",
-					"uicamera lasthit",
-					"PostEvent",
-					"currentLanguage",
-					"ReadDictionary",
-					"mDictionary",
-					"Mobile",
-					" Mobile",
-					"ReadDictionary",
-					"languages",
-					"Localization",
-					"languages",
-					"mDictionary",
-					"LOG_FILE",
-					"OnClick",
-					"touch",
-					"attach a collider",
-					"	\n",
-					"_properties",
-					"initializeAllItems",
-					"OnContextChange",
-					"OnValueChangeDelegate\nOnValueChangeDelegate",
-					"OnValueChangeDelegate",
-					"OnValueChange",
-					"NguiBinding",
-					"UpdateBinding",
-					"_texture",
-					"_itemTemplate",
-					"NguiListItemTemplate",
-					"createNewUI",
-					"validatebinding",
-					"UpdateBinding",
-					"tools.artofbytes.com/ndata",
-					"UpdateBinding",
-					"_itemTemplate",
-					"onSelectionChange",
-					"OnSelectionChange",
-					"InputOutputMG.ins",
-					"BasicGameObject",
-					"		",
-					"\n	",
-					"		",
-					"mEncoding",
-					"Persistent",
-					"onStateChange",
-					"color tint",
-					"StartCoroutine",
-					"pause",
-					"Pause",
-					"outstat",
-					"InState",
-					"instate",
-					"cleanAllGameState",
-					"resetTimeFromLastDBOperation'",
-					"resetTimeFromLastDBOperation",
-					"CloseSqlConnection",
-					"serializerPlus",
-					"msDownResBasePath",
-					"FileApi",
-					"LoadResource",
-					"appPath",
-					"LOG_ALL_MESSAGES",
-					"CreateBroadcastSignatureException",
-					"ExpectException",
-					"GetInvocationList",
-					"Callback",
-					"OnListenerAdding",
-					"MessengerHelper",
-					"messengerHelper",
-					"MessengerHelper",
-					"UnloadUnusedAssets",
-					"unload",
-					"unloadresources",
-					"unused",
-					"GM_CMD_O",
-					"PT_MaxGoods",
-					"getExpertIDbyNameID",
-					"haveNamedOneExpert",
-					"nameOneExpertToItsNameId",
-					"expertId",
-					"expertNameIds",
-					"userIcon",
-					"尖阁列岛",
-					"剑阁",
-					"DOWNLOAD",
-					"userIcon",
-					"getDefaultMaterial",
-					"TexTexture",
-					"mainTexture",
-					"updateTexture",
-					"GetIfNeedUploaded",
-					"_begin_LoadRole",
-					"_begin_LoadUserData",
-					"_load_next_userdata",
-					"_start_load_data",
-					"sendPlayerSET",
-					"DEVELOP_OF",
-					"DOWNLOAD_ON",
-					"FriendGrabThief",
-					"DOWNLOAD_OFF",
-					"DOWNLOAD_ON",
-					"DEVELOP_ON",
-					"pathMainMenu",
-					"LoadMainUI",
-					"LoadMainUI'",
-					"LoadMainUI",
-					"getGold",
-					"DEVELOP_ON",
-					"DEVELOP_ON]",
-					"AvatarStateIcon",
-					"_order",
-					"closeActivity",
-					"		IC.Get<IUIMG>().closeActivity();\n",
-					"DEVELOP_ON",
-					"PlayBackground",
-					"closeActivity",
-					"isForced",
-					"centerByOneObject",
-					"OnEventPurchaseSuccessfully",
-					"OnEventPurchaseFailed",
-					"PurchaseFailedWithInfo",
-					"loginFailed",
-					"getMaximBuffBytiles",
-					"SpreeScript",
-					"AvatarModifBtns",
-					"avatarmodifbtn",
-					"calculeMesh"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"InputOutputMG.Ins",
-					"InputOutputMG.ins",
-					"_downloadPath",
-					"this",
-					"_appPath",
-					"_expertData",
-					"\"avatarType\":7",
-					"1007",
-					"currState",
-					"protected",
-					"",
-					"preserve=\"all\"",
-					"preserve=\"fields\"",
-					"preserve=\"all\" />",
-					"",
-					"all",
-					"Debugger",
-					"bBase",
-					"avatarCellType",
-					"this",
-					"false",
-					"int",
-					"DyDebug",
-					"Debug",
-					"L91MG.Get",
-					"SkillMgr.Instance",
-					"FriendsMG.Instance",
-					"Debug.Log",
-					"DyDebug.Log"
-				],
-				"reverse": true,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 36.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.454624635289,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 171.0
-			},
-			"output.find_results":
-			{
-				"height": 100.0
-			},
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"icombatmg",
-						"Source/SubSystem/Combat/iCombatMG.cs"
-					],
-					[
-						"icombat",
-						"Source/SubSystem/Combat/iCombatInstance.cs"
-					],
-					[
-						"icom",
-						"Source/SubSystem/Combat/ICombatSystem.cs"
-					],
-					[
-						"combat",
-						"Source/SubSystem/Combat/CombatSystemInterface.cs"
-					],
-					[
-						"testnoti",
-						"Source/Test/TestNotificationMG.cs"
-					],
-					[
-						"singleton",
-						"Source/Utility/Pattern/Singleton.cs"
-					],
-					[
-						"moveto",
-						"Source/SubSystem/Actor/Action/MoveToAction.cs"
-					],
-					[
-						"act",
-						"ActorSystem.cs"
-					],
-					[
-						"comba",
-						"Source/SubSystem/Combat/CombatSystem.cs"
-					],
-					[
-						"acttorev",
-						"Source/SubSystem/Actor/Actor/ActorEvent.cs"
-					],
-					[
-						"actionevent",
-						"Plugins/NGUI/Scripts/Interaction/UIForwardEvents.cs"
-					],
-					[
-						"actorev",
-						"Source/SubSystem/Actor/Actor/ActorEvent.cs"
-					],
-					[
-						"levels",
-						"Source/GameStateMachine/LevelGameState.cs"
-					],
-					[
-						"main",
-						"Source/Main/Main.cs"
-					],
-					[
-						"menu",
-						"Source/GameStateMachine/MenuGameState.cs"
-					],
-					[
-						"levelgame",
-						"Source/GameStateMachine/LevelGameState.cs"
-					],
-					[
-						"itemat",
-						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
-					],
-					[
-						"itemsou",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemattri",
-						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
-					],
-					[
-						"ndataitem",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"datacenter",
-						"Source/SubSystem/Data/DataCenter.cs"
-					],
-					[
-						"itemdr",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
-					],
-					[
-						"datacent",
-						"Source/SubSystem/Data/DataCenter.cs"
-					],
-					[
-						"locali",
-						"Plugins/NGUI/Scripts/Internal/Localization.cs"
-					],
-					[
-						"gl",
-						"Source/Main/GlobalMG.cs"
-					],
-					[
-						"locli",
-						"Plugins/NGUI/Scripts/Internal/Localization.cs"
-					],
-					[
-						"luagesel",
-						"Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs"
-					],
-					[
-						"localationcon",
-						"Source/SubSystem/Localization/LocalizationConfigScript.cs"
-					],
-					[
-						"splashgam",
-						"Source/GameStateMachine/SplashGameState.cs"
-					],
-					[
-						"configmg",
-						"Source/ConfigClass/ConfigMG.cs"
-					],
-					[
-						"localizationconf",
-						"Source/SubSystem/Localization/LocalizationConfig.cs"
-					],
-					[
-						"langu",
-						"Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs"
-					],
-					[
-						"byteread",
-						"Plugins/NGUI/Scripts/Internal/ByteReader.cs"
-					],
-					[
-						"itembg",
-						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
-					],
-					[
-						"local",
-						"Plugins/NGUI/Scripts/Internal/Localization.cs"
+						"LEVELSTATETYPE_OTHERPLAYER	LevelStateDataType"
 					],
 					[
-						"localiztioncon",
-						"Source/SubSystem/Localization/LocalizationConfig.cs"
+						"Uipr",
+						"UiPrefabName"
 					],
-					[
-						"con",
-						"Source/ConfigClass/ConfigMG.cs"
-					],
-					[
-						"ndatait",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"itemslot",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
-					],
-					[
-						"equ",
-						"Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs"
-					],
-					[
-						"notif",
-						"Source/Notification/NotificationMG.cs"
-					],
-					[
-						"testno",
-						"Source/Test/TestNotificationMG.cs"
-					],
-					[
-						"data",
-						"Source/SubSystem/Data/DataCenter.cs"
-					],
-					[
-						"equip",
-						"Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs"
-					],
-					[
-						"itemsc",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"playerui",
-						"Source/SubSystem/UIScript/UIScript/PlayerUISlotShine.cs"
-					],
-					[
-						"ndata",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"ngui",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"prop",
-						"Plugins/NData/NGUI/NData/Core/Property.cs"
-					],
-					[
-						"itemve",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"uidragobje",
-						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
-					],
-					[
-						"itemslo",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
-					],
-					[
-						"uidragob",
-						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
-					],
-					[
-						"nda",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"itemslog",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
-					],
-					[
-						"dragobje",
-						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
-					],
-					[
-						"ndataitemslot",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"uifac",
-						"Source/SubSystem/UIFactory/UiFactory.cs"
-					],
-					[
-						"uimg",
-						"Source/Foundation/UI/UIMG.cs"
-					],
-					[
-						"uig",
-						"Plugins/NGUI/Scripts/Interaction/UIGrid.cs"
-					],
-					[
-						"men",
-						"Source/GameStateMachine/MenuGameState.cs"
-					],
-					[
-						"filelogmg",
-						"Resources/Debug/Source/Utility/Debug/FileLog/FileLogMG.cs"
-					],
-					[
-						"filelog",
-						"Resources/Debug/Source/Utility/Debug/FileLog/FileLog.cs"
-					],
-					[
-						"debugex",
-						"Resources/Debug/Source/Utility/Debug/DebugEx.cs"
-					],
-					[
-						"bgu",
-						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
-					],
-					[
-						"itemscr",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"itemtun",
-						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
-					],
-					[
-						"items",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"chine",
-						"Resources/Localization/Chinese.txt"
-					],
-					[
-						"itemvi",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"item",
-						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
-					],
-					[
-						"itemview",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"uicamer",
-						"Plugins/NGUI/Scripts/UI/UICamera.cs"
-					],
-					[
-						"close",
-						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
-					],
-					[
-						"closewh",
-						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
-					],
-					[
-						"closeui",
-						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
-					],
-					[
-						"ndatai",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"ndataite",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"ndataiem",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"datacen",
-						"Source/SubSystem/Data/DataCenter.cs"
-					],
-					[
-						"chines",
-						"Resources/Localization/Chinese.txt"
-					],
-					[
-						"uilocal",
-						"Plugins/NGUI/Scripts/UI/UILocalize.cs"
-					],
-					[
-						"nguiloc",
-						"Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs"
-					],
-					[
-						"nguitextb",
-						"Plugins/NData/NGUI/NData/NguiTextBinding.cs"
-					],
-					[
-						"nguilocali",
-						"Plugins/NData/NGUI/NData/NguiLocalizedTextBinding.cs"
-					],
-					[
-						"nguiloca",
-						"Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs"
-					],
-					[
-						"itemstaticbg",
-						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
-					],
-					[
-						"viewmod",
-						"Source/SubSystem/UIScript/ViewModel/ViewModel.cs"
-					],
-					[
-						"nguidatacn",
-						"Plugins/NData/NGUI/NData/NguiDataContext.cs"
-					],
-					[
-						"nguiitemdatac",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"ndtaite",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"itemv",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"nguisouc",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemattribu",
-						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
-					],
-					[
-						"itemscro",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"nguiitemsou",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"nguiitemda",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"nguisprite",
-						"Plugins/NData/NGUI/NData/NguiSpriteBinding.cs"
-					],
-					[
-						"ndatatexture",
-						"Source/SubSystem/UIScript/UIScript/NdataTexturePathBind.cs"
-					],
-					[
-						"nguispritebind",
-						"Plugins/NData/NGUI/NData/NguiSpriteBinding.cs"
-					],
-					[
-						"nguilisti",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguibind",
-						"Plugins/NData/NGUI/NData/NguiBinding.cs"
-					],
-					[
-						"iuimg",
-						"Source/Foundation/UI/UIMG.cs"
-					],
-					[
-						"nguiitem",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"list",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguiitemsource",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"ndataitems",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"itemsl",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotScript.cs"
-					],
-					[
-						"nguitexture",
-						"Plugins/NData/NGUI/NData/NguiTextureBinding.cs"
-					],
-					[
-						"ndataitemsl",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"nguilist",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguism",
-						"Editor/NData/NguiSimpleListTemplate.cs"
-					],
-					[
-						"itemviewm",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"splash",
-						"Source/GameStateMachine/SplashGameState.cs"
-					],
-					[
-						"m",
-						"Source/GameStateMachine/MenuGameState.cs"
-					],
-					[
-						"splashgame",
-						"Source/GameStateMachine/SplashGameState.cs"
-					],
-					[
-						"loginga",
-						"Source/GameStateMachine/LoginGameState.cs"
-					],
-					[
-						"nguisou",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemscrol",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"nguiitemsourcebin",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemdat",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"texturea",
-						"Source/Foundation/Texture/TextureAtlasMG.cs"
-					],
-					[
-						"nguilis",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"ndatatexu",
-						"Source/SubSystem/UIScript/UIScript/NdataTexturePathBind.cs"
-					],
-					[
-						"ndatatexturepa",
-						"Source/SubSystem/UIScript/UIScript/NdataTexturePathBind.cs"
-					],
-					[
-						"vide",
-						"Source/SubSystem/UIScript/ViewModel/ViewModel.cs"
-					],
-					[
-						"nguii",
-						"Plugins/NData/NGUI/NData/NguiSpriteIntegerBinding.cs"
-					],
-					[
-						"nguiinte",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 292.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1920.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"targe",
 						"target"
@@ -2226,68 +543,25 @@
 					[
 						"onend",
 						"OnEndConstruction()	Void"
-					],
-					[
-						"posi",
-						"posTileY	Int32"
-					],
-					[
-						"rotate",
-						"EulerRotation(Vector3)	Quaternion"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "Assets/Source/SubSystem/Combat/CombatSystem.cs",
-					"settings":
-					{
-						"buffer_size": 4398,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 693,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Assets/Source/SubSystem/Combat/iCombatInstance.cs",
-					"settings":
-					{
-						"buffer_size": 1268,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/Borluse/Desktop/zhaofan.txt",
-					"settings":
-					{
-						"buffer_size": 4995,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
-					"settings":
-					{
-						"buffer_size": 4632,
-						"line_ending": "Windows"
-					}
-				}
-			],
 			"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
 			"command_palette":
 			{
-				"height": 120.0,
+				"height": 76.0,
 				"selected_items":
 				[
 					[
-						"install",
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -2295,19 +569,27 @@
 						"Package Control: Install Package"
 					],
 					[
-						"upgrad",
-						"Package Control: Upgrade Package"
+						"instalpa",
+						"Package Control: Install Package"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
 					],
 					[
 						"package",
 						"Package Control: Upgrade Package"
 					],
 					[
-						"packa",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"installpa",
+						"upgrad",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packa",
 						"Package Control: Install Package"
 					],
 					[
@@ -2359,20 +641,12 @@
 						"Package Control: List Packages"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"todo",
 						"Show TODOs: Project and open files"
 					],
 					[
 						"showt",
 						"Show TODOs: Project and open files"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					],
 					[
 						"instalp",
@@ -2511,7 +785,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 588.0
+				"width": 561.0
 			},
 			"console":
 			{
@@ -2528,23 +802,38 @@
 			},
 			"file_history":
 			[
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Basic/DyDebug.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Net/Handler/Lobby_Handler.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/MenuGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/test_combat__.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/DebugEx.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/Login/LoginMg.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/testPanel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/GameLogic/MenuGameModule.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/DataBase/Zlib/Deflate.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
+				"/Users/Borluse/Desktop/zhaofan.txt",
+				"/Users/Borluse/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatInstance.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystem.cs",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/CTags/CTags.sublime-settings",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/CTags/ctagsplugin.py",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/CTags.sublime-settings",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatEvent.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatMG.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/ConfigMG.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Localization/LocalizationConfigScript.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/Test_Sqlite_Zlib_DES.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestNotificationMG.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatInstance.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystem.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/ICombatSystem.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystemInterface.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Action/MoveToAction.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Pattern/Singleton.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ActorSystem.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIForwardEvents.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/MenuGameState.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/LevelGameState.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Main/Main.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs",
@@ -2571,7 +860,6 @@
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/Core/Property.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiItemDataContext.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs",
-				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/DebugEx.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLog.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLogMG.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/UIMG.cs",
@@ -2616,7 +904,6 @@
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScaleAdjust.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/IO/InputOutputMG.cs",
-				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ViewModel.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ItemStaticBGTuner.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Basic/DontDestroyGameObject.cs",
@@ -2639,23 +926,10 @@
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestGameStateMachine.cs",
 				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/InfiniteTower - ST2.sublime-project",
 				"/Users/Borluse/.bash_profile",
-				"/Users/Borluse/Desktop/zhaofan.txt",
 				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/InputOutputMG.cs",
 				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/AssetBundleCenter.cs",
 				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Main/.svn/tmp/GlobalMG.cs.tmp",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Basic/DyDebug.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/Log/Log.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/Log/LogMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/Test_Sqlite_Zlib_DES.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Main/GlobalMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/DBManager.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/SharpUnit/Unity3D_TestRunner.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/GameStateMachine/GameStateMG.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Pattern/Singleton.cs",
-				"/System/Library/QuickLook/Text.qlgenerator/Contents/Info.plist",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/TestGameStateMachine.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Test/SharpUnit/TestSuite.cs",
-				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/GameStateMachine/iGameState.cs"
+				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Basic/DyDebug.cs"
 			],
 			"find":
 			{
@@ -2691,6 +965,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"5",
 					"AllInstances",
 					"lasthit",
 					"uicamera",
@@ -2817,8 +1092,7 @@
 					"loginFailed",
 					"getMaximBuffBytiles",
 					"SpreeScript",
-					"AvatarModifBtns",
-					"avatarmodifbtn"
+					"AvatarModifBtns"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2863,376 +1137,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "Assets/Source/SubSystem/Combat/CombatSystem.cs",
-							"settings":
-							{
-								"buffer_size": 4398,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3632,
-										3632
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2229.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-							"settings":
-							{
-								"buffer_size": 693,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										121,
-										121
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 2,
-							"file": "Assets/Source/SubSystem/Combat/iCombatInstance.cs",
-							"settings":
-							{
-								"buffer_size": 1268,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1249,
-										1249
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/Borluse/Desktop/zhaofan.txt",
-							"settings":
-							{
-								"buffer_size": 4995,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										20,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
-							"settings":
-							{
-								"buffer_size": 4632,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										409,
-										409
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 36.0
@@ -3261,7 +1165,7 @@
 				"cols":
 				[
 					0.0,
-					0.642904445639,
+					0.514835121801,
 					1.0
 				],
 				"rows":
@@ -3279,7 +1183,6 @@
 			{
 				"height": 100.0
 			},
-			"position": "1920 0 1920 1080 1920 0 1920 1080 ",
 			"replace":
 			{
 				"height": 66.0
@@ -3290,6 +1193,102 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"combatsys",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
+					[
+						"mainscenuiscr",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"levelgam",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"menu",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"logingame",
+						"Source/GameStateMachine/LoginGameState.cs"
+					],
+					[
+						"splaga",
+						"Source/GameStateMachine/SplashGameState.cs"
+					],
+					[
+						"loginmg",
+						"Source/SubSystem/UIScript/Login/LoginMg.cs"
+					],
+					[
+						"menugame",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"mainuis",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"levelgamest",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"levelmg",
+						"Source/SubSystem/Level/LevelMG.cs"
+					],
+					[
+						"testcomba",
+						"Source/Test/test_combat__.cs"
+					],
+					[
+						"testpan",
+						"testPanel.cs"
+					],
+					[
+						"levelgame",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"debu",
+						"Resources/Debug/Source/Utility/Debug/DebugEx.cs"
+					],
+					[
+						"dyde",
+						"Source/Utility/Basic/DyDebug.cs"
+					],
+					[
+						"lobby",
+						"Source/SubSystem/Net/Handler/Lobby_Handler.cs"
+					],
+					[
+						"mainsceneui",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"uifa",
+						"Source/SubSystem/UIFactory/UiFactory.cs"
+					],
+					[
+						"levelgmae",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"mem",
+						"Source/SubSystem/GameLogic/MenuGameModule.cs"
+					],
+					[
+						"basefac",
+						"Source/Foundation/DataBase/Zlib/Deflate.cs"
+					],
+					[
+						"icomba",
+						"Source/SubSystem/Combat/iCombatInstance.cs"
+					],
+					[
+						"com",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
 					[
 						"icom",
 						"Source/SubSystem/Combat/iCombatMG.cs"
@@ -3365,14 +1364,6 @@
 					[
 						"main",
 						"Source/Main/Main.cs"
-					],
-					[
-						"menu",
-						"Source/GameStateMachine/MenuGameState.cs"
-					],
-					[
-						"levelgame",
-						"Source/GameStateMachine/LevelGameState.cs"
 					],
 					[
 						"itemat",
@@ -3713,94 +1704,6 @@
 					[
 						"nguilisti",
 						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguibind",
-						"Plugins/NData/NGUI/NData/NguiBinding.cs"
-					],
-					[
-						"iuimg",
-						"Source/Foundation/UI/UIMG.cs"
-					],
-					[
-						"nguiitem",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"list",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguiitemsource",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"ndataitems",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"itemsl",
-						"Source/SubSystem/UIScript/UIScript/ItemSlotScript.cs"
-					],
-					[
-						"nguitexture",
-						"Plugins/NData/NGUI/NData/NguiTextureBinding.cs"
-					],
-					[
-						"ndataitemsl",
-						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
-					],
-					[
-						"nguilist",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
-					],
-					[
-						"nguism",
-						"Editor/NData/NguiSimpleListTemplate.cs"
-					],
-					[
-						"itemviewm",
-						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
-					],
-					[
-						"splash",
-						"Source/GameStateMachine/SplashGameState.cs"
-					],
-					[
-						"m",
-						"Source/GameStateMachine/MenuGameState.cs"
-					],
-					[
-						"splashgame",
-						"Source/GameStateMachine/SplashGameState.cs"
-					],
-					[
-						"loginga",
-						"Source/GameStateMachine/LoginGameState.cs"
-					],
-					[
-						"nguisou",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemscrol",
-						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
-					],
-					[
-						"nguiitemsourcebin",
-						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
-					],
-					[
-						"itemdat",
-						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
-					],
-					[
-						"texturea",
-						"Source/Foundation/Texture/TextureAtlasMG.cs"
-					],
-					[
-						"nguilis",
-						"Plugins/NData/NGUI/NData/NguiListItemTemplate.cs"
 					]
 				],
 				"width": 0.0
@@ -3817,9 +1720,2749 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 292.0,
+			"side_bar_width": 139.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1921.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"le",
+						"LEVELSTATETYPE_OTHERPLAYER	LevelStateDataType"
+					],
+					[
+						"Uipr",
+						"UiPrefabName"
+					],
+					[
+						"targe",
+						"target"
+					],
+					[
+						"getuid",
+						"getUidFromInstance"
+					],
+					[
+						"sendeventtoev",
+						"SendEventToInstance(CombatEvent, Int32, iCombatInstance, Object)	Void"
+					],
+					[
+						"onrec",
+						"OnRecvEvent(CombatEvent, iCombatInstance, Object)	Void"
+					],
+					[
+						"get",
+						"getInstanceFromUid"
+					],
+					[
+						"getinst",
+						"getInstanceFromGO"
+					],
+					[
+						"all",
+						"AllInstances"
+					],
+					[
+						"de",
+						"dealWithReceivedEventFromInstance"
+					],
+					[
+						"sendevn",
+						"SendEventToLogic"
+					],
+					[
+						"sendeventt",
+						"SendEventToLogic"
+					],
+					[
+						"Comba",
+						"CombatSystem"
+					],
+					[
+						"current",
+						"currentLanguage"
+					],
+					[
+						"table",
+						"LocalicationTable	LocalicationTable"
+					],
+					[
+						"retr",
+						"returnItemToOrigin"
+					],
+					[
+						"remove",
+						"RemoveListener<T, U>(String, Callback<T1, T2>, U])	Void"
+					],
+					[
+						"bro",
+						"Broadcast<T>(String, T)	Void"
+					],
+					[
+						"addlis",
+						"AddListener<T>(String, Callback<T>)	Void"
+					],
+					[
+						"random",
+						"Random"
+					],
+					[
+						"return",
+						"returnToOrigin"
+					],
+					[
+						"getcompo",
+						"GetComponentInChildren<T>()	T"
+					],
+					[
+						"setuipo",
+						"SetUIPosition(GameObject, Vector3)	Void"
+					],
+					[
+						"move",
+						"SetUIPosition(GameObject, Vector3)	Void"
+					],
+					[
+						"uipe",
+						"UiPrefbBox"
+					],
+					[
+						"proc",
+						"ProcessTouch(Boolean, Boolean)	Void"
+					],
+					[
+						"curr",
+						"currentTouch	UICamera+MouseOrTouch"
+					],
+					[
+						"touch",
+						"lastTouchPosition	Vector2"
+					],
+					[
+						"Onclic",
+						"OnClickedOutside"
+					],
+					[
+						"shomo",
+						"ShowModelessUI(String, Boolean)	GameObject"
+					],
+					[
+						"addwid",
+						"AddWidgetCollider(GameObject)	BoxCollider"
+					],
+					[
+						"calcule",
+						"CalculateRelativeWidgetBounds(Transform)	Bounds"
+					],
+					[
+						"calu",
+						"CalculateAbsoluteWidgetBounds(Transform)	Bounds"
+					],
+					[
+						"addcompoen",
+						"AddComponent<T>()	T"
+					],
+					[
+						"repos",
+						"Reposition()	Void"
+					],
+					[
+						"prefabwi",
+						"prefabWithGem"
+					],
+					[
+						"find",
+						"FindProperty<T>(String, IBinding)	Property<T>"
+					],
+					[
+						"Deb",
+						"DebugEx"
+					],
+					[
+						"prop",
+						"Property<T1>	class"
+					],
+					[
+						"cal",
+						"CalculateRelativeWidgetBounds(Transform)	Bounds"
+					],
+					[
+						"Vec",
+						"Vector3"
+					],
+					[
+						"vec",
+						"Vector3"
+					],
+					[
+						"worldto",
+						"WorldToScreenPoint(Vector3)	Vector3"
+					],
+					[
+						"UICa",
+						"UICamera"
+					],
+					[
+						"tranfr",
+						"TransformPoint(Vector3)	Vector3"
+					],
+					[
+						"m",
+						"MoveUIToPosition(GameObject, Vector3)	Void"
+					],
+					[
+						"getcop",
+						"GetComponent<T>()	T"
+					],
+					[
+						"sele",
+						"SelectedIndex	Int32"
+					],
+					[
+						"Oncl",
+						"OnClicked"
+					],
+					[
+						"rando",
+						"Random"
+					],
+					[
+						"debu",
+						"DebugEx"
+					],
+					[
+						"getcopoen",
+						"GetComponentsInChildren<T>()	T[]"
+					],
+					[
+						"getcopo",
+						"GetComponent<T>()	T"
+					],
+					[
+						"gameob",
+						"GameObject"
+					],
+					[
+						"ItemDa",
+						"NguiItemDataContext"
+					],
+					[
+						"add",
+						"Add(NguiItemDataContext)	Void"
+					],
+					[
+						"addcomponent",
+						"AddComponent<T>()	T"
+					],
+					[
+						"chi",
+						"GetChild(Int32)	Transform"
+					],
+					[
+						"getcoponentinchi",
+						"GetComponentsInChildren<T>()	T[]"
+					],
+					[
+						"gam",
+						"GameObject"
+					],
+					[
+						"repo",
+						"Reposition()	Void"
+					],
+					[
+						"getcomponent",
+						"GetComponent<T>()	T"
+					],
+					[
+						"defa",
+						"DefaultTemplate"
+					],
+					[
+						"set",
+						"SelectItem(Int32)	Void"
+					],
+					[
+						"sendme",
+						"SendMessage(String)	Void"
+					],
+					[
+						"onsele",
+						"OnSelectItemByIndex(Int32)	Void"
+					],
+					[
+						"selec",
+						"SelectItem(Int32)	Void"
+					],
+					[
+						"onselec",
+						"OnSelectItemByIndex"
+					],
+					[
+						"viewmo",
+						"m_ViewModel"
+					],
+					[
+						"arm",
+						"ArmourProperty	Property<ItemViewModel>"
+					],
+					[
+						"_tex",
+						"_textures"
+					],
+					[
+						"getcompnent",
+						"GetComponent<T>()	T"
+					],
+					[
+						"adcp",
+						"AddComponent<T>()	T"
+					],
+					[
+						"getcomp",
+						"GetComponentsInChildren(Type)	Component[]"
+					],
+					[
+						"getcopon",
+						"GetComponent<T>()	T"
+					],
+					[
+						"addchile",
+						"AddChild(GameObject, GameObject)	GameObject"
+					],
+					[
+						"positio",
+						"PositionNormal"
+					],
+					[
+						"gecop",
+						"GetComponent<T>()	T"
+					],
+					[
+						"onche",
+						"onStateChange	UICheckbox+OnStateChange"
+					],
+					[
+						"loadl",
+						"LoadLevel(Int32)	Void"
+					],
+					[
+						"start",
+						"StartCoroutine(String, Object)	Coroutine"
+					],
+					[
+						"_Curen",
+						"_currentGameStateImplement"
+					],
+					[
+						"DBH",
+						"DataBaseHelper"
+					],
+					[
+						"equal",
+						"Equal(Object, Object)	Void"
+					],
+					[
+						"tes",
+						"test"
+					],
+					[
+						"ex",
+						"ExpectException(Exception)	Void"
+					],
+					[
+						"broad",
+						"Broadcast(String)	Void"
+					],
+					[
+						"addli",
+						"AddListener<T>(String, Callback<T>)	Void"
+					],
+					[
+						"testob",
+						"testObj"
+					],
+					[
+						"notifmg",
+						"NotificationMG"
+					],
+					[
+						"Tes",
+						"TestObject"
+					],
+					[
+						"Notifi",
+						"NotificationMG"
+					],
+					[
+						"ret",
+						"resumeLastImp"
+					],
+					[
+						"_curregame",
+						"_currentGameStateImplement"
+					],
+					[
+						"_curregae",
+						"_currentGameStateImplement"
+					],
+					[
+						"_curreg",
+						"_currentGameStateImplement"
+					],
+					[
+						"getcoponent",
+						"GetComponents(Type)	Component[]"
+					],
+					[
+						"_currg",
+						"_currentGameStateImplement"
+					],
+					[
+						"Games",
+						"GameState"
+					],
+					[
+						"cont",
+						"ContainsKey(GameState)	Boolean"
+					],
+					[
+						"eq",
+						"Equal(String, String)	Void"
+					],
+					[
+						"getcoo",
+						"GetComponent<T>()	T"
+					],
+					[
+						"test",
+						"TEST_1	GameState"
+					],
+					[
+						"getcur",
+						"getCurrentGameStateImplement()	iGameState"
+					],
+					[
+						"addi",
+						"addtionTest1"
+					],
+					[
+						"_currentgamse",
+						"_currentGameStateImplement"
+					],
+					[
+						"mygam",
+						"setMyGameState(GameState)	Void"
+					],
+					[
+						"getcurr",
+						"getCurrentGameState()	GameState"
+					],
+					[
+						"getcopone",
+						"GetComponent(Type)	Component"
+					],
+					[
+						"adc",
+						"AddComponent(Type)	Component"
+					],
+					[
+						"_cure",
+						"_currentGameStateImplement"
+					],
+					[
+						"addcompo",
+						"AddComponent<T>()	T"
+					],
+					[
+						"ge",
+						"GetComponent<T>()	T"
+					],
+					[
+						"_games",
+						"_gameStateMap"
+					],
+					[
+						"_currentGme",
+						"_currentGameStateImplement"
+					],
+					[
+						"getcurrg",
+						"getCurrentGameStateImplement"
+					],
+					[
+						"games",
+						"GameState"
+					],
+					[
+						"sendset",
+						"sendSetSpree()	Void"
+					],
+					[
+						"send",
+						"sendSetScore()	Void"
+					],
+					[
+						"name",
+						"getNameId()	Int32"
+					],
+					[
+						"seetui",
+						"setUITextureWithNormalMaterial(UITexture)	Void"
+					],
+					[
+						"confi",
+						"Config"
+					],
+					[
+						"_currs",
+						"_currGameState"
+					],
+					[
+						"ipad",
+						"iPad2Gen	iPhoneGeneration"
+					],
+					[
+						"inv",
+						"InvokeRepeating(String, Single, Single)	Void"
+					],
+					[
+						"syn",
+						"SynchroTokenInSecond(Int32)	Void"
+					],
+					[
+						"update",
+						"updateRoadState()	Void"
+					],
+					[
+						"onend",
+						"OnEndConstruction()	Void"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "Assets/Source/GameStateMachine/LevelGameState.cs",
+					"settings":
+					{
+						"buffer_size": 859,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Assets/Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs",
+					"settings":
+					{
+						"buffer_size": 3797,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Source/GameStateMachine/MenuGameState.cs",
+					"settings":
+					{
+						"buffer_size": 1196,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Assets/Source/SubSystem/UIScript/Login/LoginMg.cs",
+					"settings":
+					{
+						"buffer_size": 7761,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Source/GameStateMachine/SplashGameState.cs",
+					"settings":
+					{
+						"buffer_size": 1671,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Assets/Source/GameStateMachine/LoginGameState.cs",
+					"settings":
+					{
+						"buffer_size": 1392,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Source/SubSystem/Combat/CombatSystem.cs",
+					"settings":
+					{
+						"buffer_size": 7593,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Resources/Debug/Source/Utility/TestDebug.cs",
+					"settings":
+					{
+						"buffer_size": 540,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Assets/Plugins/NGUI/Scripts/UI/UIFont.cs",
+					"settings":
+					{
+						"buffer_size": 36384,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Source/SubSystem/UIFactory/UiFactory.cs",
+					"settings":
+					{
+						"buffer_size": 4873,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Assets/Source/SubSystem/Level/LevelMG.cs",
+					"settings":
+					{
+						"buffer_size": 5677,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 798,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+			"command_palette":
+			{
+				"height": 76.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insp",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instap",
+						"Package Control: Install Package"
+					],
+					[
+						"instalpa",
+						"Package Control: Install Package"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"upgrad",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontre",
+						"Package Control: Add Repository"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"bui",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"in",
+						"Sort Lines"
+					],
+					[
+						"intent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"packageup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"alig",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – User"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"todo",
+						"Show TODOs: Project and open files"
+					],
+					[
+						"showt",
+						"Show TODOs: Project and open files"
+					],
+					[
+						"instalp",
+						"Package Control: Install Package"
+					],
+					[
+						"ctag",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"prettyj",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"prety",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"prettyjson",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"sur",
+						"Surround: change surround"
+					],
+					[
+						"surren",
+						"Surround: delete surround"
+					],
+					[
+						":",
+						"Surround: surround selection"
+					],
+					[
+						":cs",
+						"Surround: change surround"
+					],
+					[
+						"packagec",
+						"Package Control: Install Package"
+					],
+					[
+						"packaupal",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"pacup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":wq",
+						"Bracket Highlighter: Swap Quotes"
+					],
+					[
+						"upgre",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"upg",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"upgra",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pacakg",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packag",
+						"Package Control: List Packages"
+					],
+					[
+						"pacakge",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						":we",
+						":w - Save"
+					],
+					[
+						":wa",
+						":w - Save"
+					],
+					[
+						":e",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						":ew",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"packai",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"upd",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packageins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 320.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Basic/DyDebug.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Net/Handler/Lobby_Handler.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/MenuGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/test_combat__.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/DebugEx.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/Login/LoginMg.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/testPanel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/GameLogic/MenuGameModule.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/DataBase/Zlib/Deflate.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Actor/ActorEvent.cs",
+				"/Users/Borluse/Desktop/zhaofan.txt",
+				"/Users/Borluse/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatInstance.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystem.cs",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/CTags/CTags.sublime-settings",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/CTags/ctagsplugin.py",
+				"/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/CTags.sublime-settings",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatEvent.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/iCombatMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/ConfigMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Localization/LocalizationConfigScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/Test_Sqlite_Zlib_DES.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestNotificationMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/ICombatSystem.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Combat/CombatSystemInterface.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Actor/Action/MoveToAction.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Pattern/Singleton.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ActorSystem.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIForwardEvents.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/LevelGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Main/Main.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/ByteReader.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/LocalicationTable.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/Localization.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Data/DataCenter.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/SplashGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Main/GlobalMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/LocalizationConfig.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/LocalizationConfigScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/Localization/LocalizationConfig.cs",
+				"/Users/Borluse/testNDATA/Assets/NGUI/Examples/Scripts/Other/DragDropItem.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Notification/NotificationMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/PlayerUISlotShine.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/PlayerUICheckBox.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIDragObject.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/Core/Property.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiItemDataContext.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLog.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/FileLog/FileLogMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/UIMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIFactory/UiFactory.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UIGrid.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiDataContext.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/ViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/NGUIMenu.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/UICameraTool.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UICamera.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Localization/Chinese.txt",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiLocalizedTextBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UILocalize.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NData/NguiSimpleListTemplate.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiListItemTemplate.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/LoginGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataTexturePathBind.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiSpriteBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextureBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/ItemSlotScript.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/ConfigClass/svn-prop.tmp",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/svn-commit.2.tmp",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/svn-commit.tmp",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/Texture/TextureAtlasMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiSpriteIntegerBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiOnClickBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiCommandBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiTextMultiBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/RoleItemCatSelect.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NData/SceneValidator.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScript/NdataSourceInitialFirst.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/Texture/TexTexture.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel/RoleViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NData/NGUI/NData/NguiMultiBinding.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UILabel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UI/ViewModel/ViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/UI/UIRoot.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/UIScaleAdjust.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/IO/InputOutputMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/ViewModel.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ItemStaticBGTuner.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Utility/Basic/DontDestroyGameObject.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/ItemScrollEffect.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerUISlotShine.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerRoleUIReady.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/SubSystem/UIScript/PlayerUICheckBox.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/SyncSublimeText2.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Tweening/UITweener.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Tweening/TweenPosition.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Internal/NGUITools.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Plugins/NGUI/Scripts/Interaction/UICheckbox.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Resources/Font/font25.txt",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Editor/NGUI/UILabelInspector.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/.svn/tmp/UIMG.cs.tmp",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/GameStateMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Resources/Debug/Source/Utility/Debug/ScreenLog/ScreenLogUIMG.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Foundation/UI/UIManager.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/GameStateMachine/iGameState.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/Assets/Source/Test/TestGameStateMachine.cs",
+				"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/InfiniteTower - ST2.sublime-project",
+				"/Users/Borluse/.bash_profile",
+				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/InputOutputMG.cs",
+				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Foundation/IO/AssetBundleCenter.cs",
+				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Main/.svn/tmp/GlobalMG.cs.tmp",
+				"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Assets/Source/Utility/Basic/DyDebug.cs"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"/Users/Borluse/Project/ChinaTown/ChinaTown/Assets/Source",
+					"",
+					"Source",
+					"",
+					"/Users/Borluse/Project/ManorTD/trunk/Assets/Src",
+					"",
+					"/Users/borluse/Documents/ManorTD/trunk91/Assets/Src",
+					"",
+					"/Users/borluse/Documents/ManorTD/trunk91/Assets/Src",
+					"",
+					"/Users/borluse/Documents/ManorTD/trunk/Assets/Editor",
+					"/Users/borluse/Documents/ManorTD/trunk/Assets/Plugins",
+					"./Plugins",
+					"Plugins",
+					"",
+					"/Users/borluse/Documents/ManorTD/trunk/Assets/Icon",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"5",
+					"AllInstances",
+					"lasthit",
+					"uicamera",
+					"uicamera lasthit",
+					"PostEvent",
+					"currentLanguage",
+					"ReadDictionary",
+					"mDictionary",
+					"Mobile",
+					" Mobile",
+					"ReadDictionary",
+					"languages",
+					"Localization",
+					"languages",
+					"mDictionary",
+					"LOG_FILE",
+					"OnClick",
+					"touch",
+					"attach a collider",
+					"	\n",
+					"_properties",
+					"initializeAllItems",
+					"OnContextChange",
+					"OnValueChangeDelegate\nOnValueChangeDelegate",
+					"OnValueChangeDelegate",
+					"OnValueChange",
+					"NguiBinding",
+					"UpdateBinding",
+					"_texture",
+					"_itemTemplate",
+					"NguiListItemTemplate",
+					"createNewUI",
+					"validatebinding",
+					"UpdateBinding",
+					"tools.artofbytes.com/ndata",
+					"UpdateBinding",
+					"_itemTemplate",
+					"onSelectionChange",
+					"OnSelectionChange",
+					"InputOutputMG.ins",
+					"BasicGameObject",
+					"		",
+					"\n	",
+					"		",
+					"mEncoding",
+					"Persistent",
+					"onStateChange",
+					"color tint",
+					"StartCoroutine",
+					"pause",
+					"Pause",
+					"outstat",
+					"InState",
+					"instate",
+					"cleanAllGameState",
+					"resetTimeFromLastDBOperation'",
+					"resetTimeFromLastDBOperation",
+					"CloseSqlConnection",
+					"serializerPlus",
+					"msDownResBasePath",
+					"FileApi",
+					"LoadResource",
+					"appPath",
+					"LOG_ALL_MESSAGES",
+					"CreateBroadcastSignatureException",
+					"ExpectException",
+					"GetInvocationList",
+					"Callback",
+					"OnListenerAdding",
+					"MessengerHelper",
+					"messengerHelper",
+					"MessengerHelper",
+					"UnloadUnusedAssets",
+					"unload",
+					"unloadresources",
+					"unused",
+					"GM_CMD_O",
+					"PT_MaxGoods",
+					"getExpertIDbyNameID",
+					"haveNamedOneExpert",
+					"nameOneExpertToItsNameId",
+					"expertId",
+					"expertNameIds",
+					"userIcon",
+					"尖阁列岛",
+					"剑阁",
+					"DOWNLOAD",
+					"userIcon",
+					"getDefaultMaterial",
+					"TexTexture",
+					"mainTexture",
+					"updateTexture",
+					"GetIfNeedUploaded",
+					"_begin_LoadRole",
+					"_begin_LoadUserData",
+					"_load_next_userdata",
+					"_start_load_data",
+					"sendPlayerSET",
+					"DEVELOP_OF",
+					"DOWNLOAD_ON",
+					"FriendGrabThief",
+					"DOWNLOAD_OFF",
+					"DOWNLOAD_ON",
+					"DEVELOP_ON",
+					"pathMainMenu",
+					"LoadMainUI",
+					"LoadMainUI'",
+					"LoadMainUI",
+					"getGold",
+					"DEVELOP_ON",
+					"DEVELOP_ON]",
+					"AvatarStateIcon",
+					"_order",
+					"closeActivity",
+					"		IC.Get<IUIMG>().closeActivity();\n",
+					"DEVELOP_ON",
+					"PlayBackground",
+					"closeActivity",
+					"isForced",
+					"centerByOneObject",
+					"OnEventPurchaseSuccessfully",
+					"OnEventPurchaseFailed",
+					"PurchaseFailedWithInfo",
+					"loginFailed",
+					"getMaximBuffBytiles",
+					"SpreeScript",
+					"AvatarModifBtns"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_AllInstances",
+					"InputOutputMG.Ins",
+					"InputOutputMG.ins",
+					"_downloadPath",
+					"this",
+					"_appPath",
+					"_expertData",
+					"\"avatarType\":7",
+					"1007",
+					"currState",
+					"protected",
+					"",
+					"preserve=\"all\"",
+					"preserve=\"fields\"",
+					"preserve=\"all\" />",
+					"",
+					"all",
+					"Debugger",
+					"bBase",
+					"avatarCellType",
+					"this",
+					"false",
+					"int",
+					"DyDebug",
+					"Debug",
+					"L91MG.Get",
+					"SkillMgr.Instance",
+					"FriendsMG.Instance",
+					"Debug.Log",
+					"DyDebug.Log"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "Assets/Source/GameStateMachine/LevelGameState.cs",
+							"settings":
+							{
+								"buffer_size": 859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										516,
+										516
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "Assets/Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs",
+							"settings":
+							{
+								"buffer_size": 3797,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										758,
+										758
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "Assets/Source/GameStateMachine/MenuGameState.cs",
+							"settings":
+							{
+								"buffer_size": 1196,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1196,
+										1196
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "Assets/Source/SubSystem/UIScript/Login/LoginMg.cs",
+							"settings":
+							{
+								"buffer_size": 7761,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4722,
+										4722
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 472.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "Assets/Source/GameStateMachine/SplashGameState.cs",
+							"settings":
+							{
+								"buffer_size": 1671,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1247,
+										1247
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "Assets/Source/GameStateMachine/LoginGameState.cs",
+							"settings":
+							{
+								"buffer_size": 1392,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1157,
+										1157
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "Assets/Source/SubSystem/Combat/CombatSystem.cs",
+							"settings":
+							{
+								"buffer_size": 7593,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1251,
+										1251
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 511.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "Assets/Resources/Debug/Source/Utility/TestDebug.cs",
+							"settings":
+							{
+								"buffer_size": 540,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										540,
+										540
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "Assets/Plugins/NGUI/Scripts/UI/UIFont.cs",
+							"settings":
+							{
+								"buffer_size": 36384,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7966,
+										7966
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 6220.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 9,
+							"file": "Assets/Source/SubSystem/UIFactory/UiFactory.cs",
+							"settings":
+							{
+								"buffer_size": 4873,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2297,
+										2297
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 15.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "Assets/Source/GameStateMachine/MenuGameState.cs",
+							"settings":
+							{
+								"buffer_size": 1196,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1196,
+										1196
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "Assets/Source/SubSystem/Level/LevelMG.cs",
+							"settings":
+							{
+								"buffer_size": 5677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2486,
+										2486
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2222.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/Users/Borluse/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 798,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										155,
+										155
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.514835121801,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 171.0
+			},
+			"output.find_results":
+			{
+				"height": 100.0
+			},
+			"position": "2000 13 1921 1054 1920 0 1920 1080 ",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"logingamt",
+						"Source/GameStateMachine/LoginGameState.cs"
+					],
+					[
+						"splashgame",
+						"Source/GameStateMachine/SplashGameState.cs"
+					],
+					[
+						"menugam",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"logingame",
+						"Source/GameStateMachine/LoginGameState.cs"
+					],
+					[
+						"levelgamte",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"loginmg",
+						"Source/SubSystem/UIScript/Login/LoginMg.cs"
+					],
+					[
+						"uifont",
+						"Plugins/NGUI/Scripts/UI/UIFont.cs"
+					],
+					[
+						"testd",
+						"Resources/Debug/Source/Utility/TestDebug.cs"
+					],
+					[
+						"combatsys",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
+					[
+						"mainscenuiscr",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"levelgam",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"menu",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"splaga",
+						"Source/GameStateMachine/SplashGameState.cs"
+					],
+					[
+						"menugame",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"mainuis",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"levelgamest",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"levelmg",
+						"Source/SubSystem/Level/LevelMG.cs"
+					],
+					[
+						"testcomba",
+						"Source/Test/test_combat__.cs"
+					],
+					[
+						"testpan",
+						"testPanel.cs"
+					],
+					[
+						"levelgame",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"debu",
+						"Resources/Debug/Source/Utility/Debug/DebugEx.cs"
+					],
+					[
+						"dyde",
+						"Source/Utility/Basic/DyDebug.cs"
+					],
+					[
+						"lobby",
+						"Source/SubSystem/Net/Handler/Lobby_Handler.cs"
+					],
+					[
+						"mainsceneui",
+						"Source/SubSystem/UIScript/MainScene/MainSceneUiScript.cs"
+					],
+					[
+						"uifa",
+						"Source/SubSystem/UIFactory/UiFactory.cs"
+					],
+					[
+						"levelgmae",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"mem",
+						"Source/SubSystem/GameLogic/MenuGameModule.cs"
+					],
+					[
+						"basefac",
+						"Source/Foundation/DataBase/Zlib/Deflate.cs"
+					],
+					[
+						"icomba",
+						"Source/SubSystem/Combat/iCombatInstance.cs"
+					],
+					[
+						"com",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
+					[
+						"icom",
+						"Source/SubSystem/Combat/iCombatMG.cs"
+					],
+					[
+						"combateven",
+						"Source/SubSystem/Combat/CombatEvent.cs"
+					],
+					[
+						"actorev",
+						"Source/SubSystem/Actor/Actor/ActorEvent.cs"
+					],
+					[
+						"icombat",
+						"Source/SubSystem/Combat/iCombatInstance.cs"
+					],
+					[
+						"combats",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
+					[
+						"testsq",
+						"Source/Test/Test_Sqlite_Zlib_DES.cs"
+					],
+					[
+						"config",
+						"Source/ConfigClass/ConfigMG.cs"
+					],
+					[
+						"colaz",
+						"Source/SubSystem/Localization/LocalizationConfigScript.cs"
+					],
+					[
+						"icombatmg",
+						"Source/SubSystem/Combat/iCombatMG.cs"
+					],
+					[
+						"combat",
+						"Source/SubSystem/Combat/CombatSystemInterface.cs"
+					],
+					[
+						"testnoti",
+						"Source/Test/TestNotificationMG.cs"
+					],
+					[
+						"singleton",
+						"Source/Utility/Pattern/Singleton.cs"
+					],
+					[
+						"moveto",
+						"Source/SubSystem/Actor/Action/MoveToAction.cs"
+					],
+					[
+						"act",
+						"ActorSystem.cs"
+					],
+					[
+						"comba",
+						"Source/SubSystem/Combat/CombatSystem.cs"
+					],
+					[
+						"acttorev",
+						"Source/SubSystem/Actor/Actor/ActorEvent.cs"
+					],
+					[
+						"actionevent",
+						"Plugins/NGUI/Scripts/Interaction/UIForwardEvents.cs"
+					],
+					[
+						"levels",
+						"Source/GameStateMachine/LevelGameState.cs"
+					],
+					[
+						"main",
+						"Source/Main/Main.cs"
+					],
+					[
+						"itemat",
+						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
+					],
+					[
+						"itemsou",
+						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
+					],
+					[
+						"itemattri",
+						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
+					],
+					[
+						"ndataitem",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"datacenter",
+						"Source/SubSystem/Data/DataCenter.cs"
+					],
+					[
+						"itemdr",
+						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
+					],
+					[
+						"datacent",
+						"Source/SubSystem/Data/DataCenter.cs"
+					],
+					[
+						"locali",
+						"Plugins/NGUI/Scripts/Internal/Localization.cs"
+					],
+					[
+						"gl",
+						"Source/Main/GlobalMG.cs"
+					],
+					[
+						"locli",
+						"Plugins/NGUI/Scripts/Internal/Localization.cs"
+					],
+					[
+						"luagesel",
+						"Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs"
+					],
+					[
+						"localationcon",
+						"Source/SubSystem/Localization/LocalizationConfigScript.cs"
+					],
+					[
+						"splashgam",
+						"Source/GameStateMachine/SplashGameState.cs"
+					],
+					[
+						"configmg",
+						"Source/ConfigClass/ConfigMG.cs"
+					],
+					[
+						"localizationconf",
+						"Source/SubSystem/Localization/LocalizationConfig.cs"
+					],
+					[
+						"langu",
+						"Plugins/NGUI/Scripts/Interaction/LanguageSelection.cs"
+					],
+					[
+						"byteread",
+						"Plugins/NGUI/Scripts/Internal/ByteReader.cs"
+					],
+					[
+						"itembg",
+						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
+					],
+					[
+						"local",
+						"Plugins/NGUI/Scripts/Internal/Localization.cs"
+					],
+					[
+						"localiztioncon",
+						"Source/SubSystem/Localization/LocalizationConfig.cs"
+					],
+					[
+						"con",
+						"Source/ConfigClass/ConfigMG.cs"
+					],
+					[
+						"ndatait",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"itemslot",
+						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
+					],
+					[
+						"equ",
+						"Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs"
+					],
+					[
+						"notif",
+						"Source/Notification/NotificationMG.cs"
+					],
+					[
+						"testno",
+						"Source/Test/TestNotificationMG.cs"
+					],
+					[
+						"data",
+						"Source/SubSystem/Data/DataCenter.cs"
+					],
+					[
+						"equip",
+						"Source/SubSystem/UIScript/UIScript/EquipSlotScript.cs"
+					],
+					[
+						"itemsc",
+						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
+					],
+					[
+						"playerui",
+						"Source/SubSystem/UIScript/UIScript/PlayerUISlotShine.cs"
+					],
+					[
+						"ndata",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"ngui",
+						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
+					],
+					[
+						"prop",
+						"Plugins/NData/NGUI/NData/Core/Property.cs"
+					],
+					[
+						"itemve",
+						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
+					],
+					[
+						"uidragobje",
+						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
+					],
+					[
+						"itemslo",
+						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
+					],
+					[
+						"uidragob",
+						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
+					],
+					[
+						"nda",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"itemslog",
+						"Source/SubSystem/UIScript/UIScript/ItemSlotDragObject.cs"
+					],
+					[
+						"dragobje",
+						"Plugins/NGUI/Scripts/Interaction/UIDragObject.cs"
+					],
+					[
+						"ndataitemslot",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"uifac",
+						"Source/SubSystem/UIFactory/UiFactory.cs"
+					],
+					[
+						"uimg",
+						"Source/Foundation/UI/UIMG.cs"
+					],
+					[
+						"uig",
+						"Plugins/NGUI/Scripts/Interaction/UIGrid.cs"
+					],
+					[
+						"men",
+						"Source/GameStateMachine/MenuGameState.cs"
+					],
+					[
+						"filelogmg",
+						"Resources/Debug/Source/Utility/Debug/FileLog/FileLogMG.cs"
+					],
+					[
+						"filelog",
+						"Resources/Debug/Source/Utility/Debug/FileLog/FileLog.cs"
+					],
+					[
+						"debugex",
+						"Resources/Debug/Source/Utility/Debug/DebugEx.cs"
+					],
+					[
+						"bgu",
+						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
+					],
+					[
+						"itemscr",
+						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
+					],
+					[
+						"itemtun",
+						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
+					],
+					[
+						"items",
+						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
+					],
+					[
+						"chine",
+						"Resources/Localization/Chinese.txt"
+					],
+					[
+						"itemvi",
+						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
+					],
+					[
+						"item",
+						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
+					],
+					[
+						"itemview",
+						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
+					],
+					[
+						"uicamer",
+						"Plugins/NGUI/Scripts/UI/UICamera.cs"
+					],
+					[
+						"close",
+						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
+					],
+					[
+						"closewh",
+						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
+					],
+					[
+						"closeui",
+						"Source/SubSystem/UIScript/UIScript/CloseUIWhenClickOutside.cs"
+					],
+					[
+						"ndatai",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"ndataite",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"ndataiem",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"datacen",
+						"Source/SubSystem/Data/DataCenter.cs"
+					],
+					[
+						"chines",
+						"Resources/Localization/Chinese.txt"
+					],
+					[
+						"uilocal",
+						"Plugins/NGUI/Scripts/UI/UILocalize.cs"
+					],
+					[
+						"nguiloc",
+						"Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs"
+					],
+					[
+						"nguitextb",
+						"Plugins/NData/NGUI/NData/NguiTextBinding.cs"
+					],
+					[
+						"nguilocali",
+						"Plugins/NData/NGUI/NData/NguiLocalizedTextBinding.cs"
+					],
+					[
+						"nguiloca",
+						"Plugins/NData/NGUI/NData/NguiLocalizationKeyBinding.cs"
+					],
+					[
+						"itemstaticbg",
+						"Source/SubSystem/UIScript/UIScript/ItemStaticBGTuner.cs"
+					],
+					[
+						"viewmod",
+						"Source/SubSystem/UIScript/ViewModel/ViewModel.cs"
+					],
+					[
+						"nguidatacn",
+						"Plugins/NData/NGUI/NData/NguiDataContext.cs"
+					],
+					[
+						"nguiitemdatac",
+						"Plugins/NData/NGUI/NData/NguiItemDataContext.cs"
+					],
+					[
+						"ndtaite",
+						"Source/SubSystem/UIScript/UIScript/NdataItemSlot.cs"
+					],
+					[
+						"itemv",
+						"Source/SubSystem/UIScript/ViewModel/ItemViewModel.cs"
+					],
+					[
+						"nguisouc",
+						"Plugins/NData/NGUI/NData/NguiItemsSourceBinding.cs"
+					],
+					[
+						"itemattribu",
+						"Source/SubSystem/UIScript/UIScript/ItemAttributeScript.cs"
+					],
+					[
+						"itemscro",
+						"Source/SubSystem/UIScript/UIScript/ItemScrollEffect.cs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 139.0,
 			"status_bar_visible": true,
-			"window_id": 577,
+			"window_id": 597,
 			"workspace_name": "/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/InfiniteTower - ST2.sublime-project"
 		}
 	],
@@ -3827,7 +4470,9 @@
 	{
 		"recent_workspaces":
 		[
+			"/Users/Borluse/Project/spine-runtime/spine-unity/spine-unity - ST2.sublime-project",
 			"/Users/Borluse/Project/InfinieTower/trunk/04-Code/InfiniteTower/InfiniteTower - ST2.sublime-project",
+			"/Users/Borluse/Project/Dragonbones/Dragonbones - ST2.sublime-project",
 			"/Users/Borluse/Project/ChinaTown/ChinaTown/ChinaTown.sublime-project",
 			"/Users/Borluse/Project/Foundation/trunk/02-Code/Framework/Framework - ST2.sublime-project",
 			"/Users/Borluse/Project/ChinaTown/Doc/12Code/Trunk/Editor/Editor - ST2.sublime-project",

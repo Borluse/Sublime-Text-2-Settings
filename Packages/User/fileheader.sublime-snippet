@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
 /**********************************************************************************************
-	File path:	$TM_FILEPATH
 	File base:	$TM_FILENAME
-
 	Author	 :	ZHAO Fan
+	Email 	 :  Borluse@gmail.com
 	
 	Purpose  :	${1:PURPORSE}
 ***********************************************************************************************/
